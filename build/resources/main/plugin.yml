@@ -1,0 +1,4 @@
+name: minecraft-death-plugin
+version: '1.0'
+main: com.ganwooma.minecraftDeathPlugin.MinecraftDeathPlugin
+api-version: '1.20'
